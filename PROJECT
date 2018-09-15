@@ -1,0 +1,3 @@
+version: "1"
+domain: k8s.leopoldxx.io
+repo: github.com/leopoldxx/kexample
