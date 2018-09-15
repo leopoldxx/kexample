@@ -1,0 +1,9 @@
+apiVersion: addons.k8s.leopoldxx.io/v1
+kind: NodeStatistic
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: nodestatistic-sample
+spec:
+  # Add fields here
+  foo: bar
